@@ -7,10 +7,17 @@ Within this project we will have videos and images of working with active direct
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine/Compute)
-- Remote Desktop
-- Server Manager
+  - Microsoft Azure (Virtual Machine/Compute)
+  - Remote Desktop
+  - Server Manager
 
 <h2>Operating Systems Used </h2>
 
    - Windows 10/11(21H2)
+
+<h2>List of Prerequisites</h2>
+
+   - Remote Desktop Connection
+   - Setup of active directory
+   - Connecting users to directory
+
