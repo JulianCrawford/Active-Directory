@@ -13,7 +13,8 @@ Within this project we will have videos and images of working with active direct
 
 <h2>Operating Systems Used </h2>
 
-   - Windows 10/11(21H2)
+   - Windows 10(21H2)
+   - Windows Server 2022
 
 <h2>List of Prerequisites</h2>
 
@@ -24,6 +25,10 @@ Within this project we will have videos and images of working with active direct
 <h2>How To Video</h2>
 
 https://drive.google.com/file/d/1wA4l8bkO2cqAIdwUURzwq6if08ovS7RG/view?usp=sharing
+
+
+<h2></h2>
+
 
 
 
