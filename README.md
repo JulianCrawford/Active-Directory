@@ -21,3 +21,9 @@ Within this project we will have videos and images of working with active direct
    - Setup of active directory
    - Connecting users to directory
 
+<h2>How To Video</h2>
+
+https://drive.google.com/file/d/1pM688e1Usq-7w0wMY1Lv7m2i3OZ2EnzB/view?usp=sharing
+
+
+
