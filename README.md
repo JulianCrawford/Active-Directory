@@ -24,7 +24,7 @@ Within this project we will have videos and images of working with active direct
 
 <h2>How To Video</h2>
 
-https://drive.google.com/file/d/1wA4l8bkO2cqAIdwUURzwq6if08ovS7RG/view?usp=sharing
+[Quick How-To Guide](https://drive.google.com/file/d/1wA4l8bkO2cqAIdwUURzwq6if08ovS7RG/view?usp=sharing)
 
 
 <h2></h2>
